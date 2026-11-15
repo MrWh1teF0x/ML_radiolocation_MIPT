@@ -1,0 +1,20 @@
+[project]
+name = "ml-radiolocation"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "ipykernel",
+    "matplotlib",
+    "numpy",
+    "opencv-python",
+    "pandas",
+    "pillow",
+    "psutil",
+    "pylabel",
+    "pyyaml",
+    "scikit-learn",
+    "scipy",
+    "torch",
+    "tqdm",
+    "ultralytics",
+]

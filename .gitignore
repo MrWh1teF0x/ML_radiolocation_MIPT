@@ -34,6 +34,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.uv-tmp
 
 # IDE and Editor files
 .idea/
